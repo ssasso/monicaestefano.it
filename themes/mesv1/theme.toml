@@ -1,0 +1,10 @@
+name = "mesv1"
+license = "MIT"
+description = "Inspired by Hugo Winston theme"
+
+tags = ["blog", "minimal", "clean", "Google analytics", "bootstrap", "zerostatic"]
+features = ["blog"]
+
+[author]
+  name = "Stefano Sasso"
+  homepage = "http://stefanosasso.it"

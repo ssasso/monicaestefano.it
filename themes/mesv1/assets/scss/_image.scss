@@ -1,0 +1,23 @@
+.small-image, figure.small img, img[src*="small"] {
+  width: 75%;
+}
+
+@supports (width: 100vw) {
+  .small-image, figure.small img, img[src*="small"] {
+    width: 400px;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -200px;
+    margin-right: -200px;
+  }
+  @media only screen and (max-width: 800px) {
+    .small-image, figure.small img, img[src*="small"] {
+      width: 75%;
+      left: 0;
+      right: 0;
+      margin: 0;
+    }
+  }
+}
+

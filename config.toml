@@ -1,0 +1,29 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Monica ❤ Stefano"
+themesDir = "themes"
+theme = "mesv1"
+
+paginate = 10
+
+summaryLength = 30
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+
+[params]
+  google_analytics_id = ""
+
+  showAuthorOnHomepage = false
+  showAuthorOnPosts = false
+  showPostsOnHomepage = false
+
+  addFrame = true
+  addDot = true
+
+  highlightColor = '#7b16ff'
+
+[markup.goldmark.renderer]
+  unsafe= true
