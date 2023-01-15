@@ -1,6 +1,7 @@
 :root {
   --font-family-heading: 'Libre Baskerville', serif;
-  --font-family-paragraph: Helvetica, sans-serif;
+  --font-family-paragraph: 'Libre Baskerville', sans-serif;
+  --font-family-menu: Helvetica, sans-serif;
   --font-family-mono: monospace;
   --base-color: #fff7d1;
   --base-offset-color: #eaeaea;
@@ -342,6 +343,7 @@ ul.pagination {
 
 .menu-main {
   display: none;
+  font-family: var(--font-family-menu);
   flex: 0; }
   @media (min-width: 992px) {
     .menu-main {
