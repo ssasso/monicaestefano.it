@@ -10,4 +10,6 @@ description: Monica & Stefano - 13 MAGGIO 2023
 <i>36064 Mason di Colceresa (VI)</i>
 </p>
 
-![](/heart.png#small)
+<div class="imgcenter">
+<img src="/fiori.png"/>
+</div>

@@ -1,10 +1,10 @@
 :root {
-  --font-family-heading: 'Poppins', sans-serif;
+  --font-family-heading: 'Libre Baskerville', serif;
   --font-family-paragraph: Helvetica, sans-serif;
   --font-family-mono: monospace;
-  --base-color: #ffffff;
+  --base-color: #fff7d1;
   --base-offset-color: #eaeaea;
-  --highlight-color: #7b16ff;
+  --highlight-color: #947b00;
   --heading-color: #1c1b1d;
   --text-color: #4e5157; }
 
@@ -135,8 +135,8 @@ ul {
     padding: 0;
     margin-bottom: 20px; }
   .content h1 {
-    font-size: 40px;
-    line-height: 1.6;
+    font-size: 30px;
+    line-height: 1.4;
     font-weight: bold;
     margin-top: 30px;
     margin-bottom: 20px; }
@@ -228,14 +228,14 @@ ul {
 .intro {
   margin-bottom: 60px; }
   .intro h1 {
-    font-size: 48px;
+    font-size: 35px;
     line-height: 56px;
     margin-top: 0;
     margin-bottom: 30px; }
     @media (min-width: 767px) {
       .intro h1 {
         width: 80%;
-        font-size: 88px;
+        font-size: 70px;
         line-height: 94px;
         margin-bottom: 50px; } }
     .intro h1 strong {
@@ -744,6 +744,9 @@ ul.pagination {
 .small-image, figure.small img, img[src*="small"] {
   width: 75%; }
 
+.imgcenter {
+  text-align: center; }
+
 @supports (width: 100vw) {
   .small-image, figure.small img, img[src*="small"] {
     width: 400px;
@@ -779,5 +782,10 @@ body {
 .wrapper {
   max-width: 1000px;
   margin: 0 auto; }
+
+.bgimaaaag {
+  background-image: url("/fiori_small.png");
+  background-repeat: no-repeat;
+  background-position: right; }
 
 /*# sourceMappingURL=style.css.map */

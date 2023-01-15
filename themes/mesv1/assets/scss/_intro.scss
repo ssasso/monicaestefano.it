@@ -1,13 +1,13 @@
 .intro {
   margin-bottom: 60px;
   h1 {
-    font-size: 48px;
+    font-size: 35px;
     line-height: 56px;
     margin-top: 0;
     margin-bottom: 30px;
     @include breakpoint('small') {
       width: 80%;
-      font-size: 88px;
+      font-size: 70px;
       line-height: 94px;
       margin-bottom: 50px;
     }

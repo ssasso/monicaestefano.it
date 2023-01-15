@@ -2,6 +2,10 @@
   width: 75%;
 }
 
+.imgcenter {
+  text-align: center;
+}
+
 @supports (width: 100vw) {
   .small-image, figure.small img, img[src*="small"] {
     width: 400px;

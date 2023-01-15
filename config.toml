@@ -23,7 +23,7 @@ summaryLength = 30
   addFrame = true
   addDot = true
 
-  highlightColor = '#7b16ff'
+  highlightColor = '#947b00'
 
 [markup.goldmark.renderer]
   unsafe= true
