@@ -4,7 +4,7 @@ menu = "main" #Display this page on the nav menu
 description = "Monica & Stefano - 13 MAGGIO 2023"
 +++
 
-<p>Se volete farci un regalo, potreste aiutarci a finanziare il nostro viaggio di nozze a... (destinazione ancora sconosciuta)!</p>
+<p>Se volete farci un regalo, potreste aiutarci a finanziare il nostro viaggio di nozze nella Penisola dello Yucat&aacute;n e nella Riviera Maya!</p>
 
 <p>Sicuramente vi terremo aggiornati con tante foto della nostra avventura!</p>
 
